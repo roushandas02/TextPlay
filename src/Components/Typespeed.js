@@ -5,7 +5,7 @@ import { Link, useNavigate  } from 'react-router-dom';
 
 
 const wordCount =140;
-const time= 10;
+const time= 60;
 
 
 
