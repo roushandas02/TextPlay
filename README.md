@@ -38,4 +38,7 @@ npm install -g create-react-app
 npx create-react-app text-play
 npm install react-router-dom
 npm install random-words
+npm run build
+
+Drop that build file in Netlify and the website will be live
 
